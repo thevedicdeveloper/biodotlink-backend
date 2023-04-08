@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iFg6qwWh+FDmSWijVMf2RlYSCnEvW9ebGJG1uGu8puA=",
+  "Source": "BioDotLink.Api",
+  "BasePath": "_content/BioDotLink.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
